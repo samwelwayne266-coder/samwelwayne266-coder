@@ -19,8 +19,8 @@
 
 ---
 
-### 📊 ***SYSTEM STATISTICS***
-![Wayne Core's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samwelwayne266-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### 📊 ***ACTIVITY***
+![Coding](https://img.shields.io/badge/CURRENT_STATUS-CODING_SUPREME_LOGIC-blueviolet?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
