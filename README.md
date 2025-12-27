@@ -10,29 +10,24 @@
 ---
 
 ### 🏆 ***SUPREME HALL OF FAME***
-<img src="https://github-profile-trophy.vercel.app/?username=samwelwayne266-coder&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=samwelwayne266-coder&theme=tokyonight&no-bg=true" alt="Trophies" />
 
 ---
 
 ### 🐍 ***SUPREME CONTRIBUTION MATRIX***
-![github contribution grid snake animation](https://raw.githubusercontent.com/samwelwayne266-coder/samwelwayne266-coder/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/samwelwayne266-coder/samwelwayne266-coder/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 ---
 
-### 🛰️ ***SYSTEM MISSION LOG***
-| Status | Project | Progress | Version |
-| :--- | :--- | :--- | :--- |
-| 🟢 **Deployed** | [Apex Local Messenger](https://github.com/samwelwayne266-coder/apex-local-messenger) | `██████████ 100%` | `v1.0.4` |
-| ⚡ **Active** | [Wayne Vault](https://github.com/samwelwayne266-coder/wayne-vault) | `███████░░░ 70%` | `v0.8.2-BETA` |
-| 🛡️ **Securing** | [Secret Gate Integration] | `██████████ 100%` | `WAYNE-PROT` |
-| 🔭 **Research** | Neural Socket Integration | `██░░░░░░░░ 20%` | `STABLE-VOID` |
+### 📊 ***LIVE SYSTEM METRICS***
+<img src="https://github-readme-stats.vercel.app/api?username=samwelwayne266-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samwelwayne266-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
 
 ---
 
-### 🛠️ ***OPERATIONAL STATUS***
-* **Wayne Vault:** Currently testing `multer` file streaming and the **WAYNE** secret code gatekeeper.
-* **Apex Messenger:** Fully operational on local networks; optimizing `socket.io` polling frequency.
-* **Availability:** Ready for collaboration on high-performance Node.js frameworks.
+### 🛰️ ***LATEST ACTIVITY***
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samwelwayne266-coder&theme=tokyo-night&hide_border=true)
 
 ---
 
