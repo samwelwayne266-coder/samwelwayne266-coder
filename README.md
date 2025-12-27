@@ -1,8 +1,6 @@
 <div align="center">
 
-# ******************************************************************************
 # 🚀 ***WELCOME TO THE DOMAIN OF WAYNE CORE*** 🚀
-# ******************************************************************************
 
 [![Website](https://img.shields.io/badge/WEBSITE-UP-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/samwelwayne266)
 [![GitHub](https://img.shields.io/badge/GITHUB-BLACK?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samwelwayne266)
@@ -41,5 +39,4 @@
 
 **Copyright © [WAYNE CORE](https://github.com/samwelwayne266)**
 
-# ******************************************************************************
 </div>
