@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🚀 ***WELCOME TO THE DOMAIN OF WAYNE CORE*** 🚀
+# 🚀 ***WAYNE CORE*** 🚀
+***Supreme Logic Engineer & Full-Stack Architect***
 
 [![Website](https://img.shields.io/badge/WEBSITE-UP-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/samwelwayne266)
 [![GitHub](https://img.shields.io/badge/GITHUB-BLACK?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samwelwayne266)
@@ -8,32 +9,29 @@
 
 ---
 
-### 🐍 ***SUPREME CONTRIBUTION MATRIX***
-![github contribution grid snake animation](https://github-readme-contribution-graph-snake.vercel.app/api/github-contribution-grid-snake.svg?palette=github-dark)
+### 🛠️ ***ENGINEERING STACK***
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-### 📊 ***WAYNE CORE SYSTEM STATISTICS***
+### 📊 ***SYSTEM STATISTICS***
 ![Wayne Core's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samwelwayne266&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
----
-
-### 🛠️ ***ENGINEERING STACK***
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samwelwayne266&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 🛰️ ***FEATURED ARCHITECTURE***
 #### ⚡ [***APEX LOCAL MESSENGER***](https://github.com/samwelwayne266/apex-local-messenger)
-*The ultimate multi-modal communication framework for high-speed local networking.*
+*High-speed multi-modal communication framework for LAN.*
 
 ---
 
 **👁️ Visitor Count**
-![Visitor Count](https://komarev.com/ghpvc/?username=samwelwayne266&color=blue&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=samwelwayne266&color=339933&style=flat-square&label=SYSTEM+VISITORS)
 
 ---
 
