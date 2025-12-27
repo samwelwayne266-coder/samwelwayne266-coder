@@ -9,6 +9,11 @@
 
 ---
 
+### 🏆 ***SUPREME HALL OF FAME***
+<img src="https://github-profile-trophy.vercel.app/?username=samwelwayne266-coder&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+
+---
+
 ### 🐍 ***SUPREME CONTRIBUTION MATRIX***
 ![github contribution grid snake animation](https://raw.githubusercontent.com/samwelwayne266-coder/samwelwayne266-coder/output/github-contribution-grid-snake-dark.svg)
 
