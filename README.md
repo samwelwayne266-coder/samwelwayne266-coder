@@ -16,7 +16,7 @@
 | Attribute | Data |
 | :--- | :--- |
 | **System Identity** | samwelwayne266-coder |
-| **Main Core** | [Wayne Core Dashboard](https://samwelwayne266-coder.github.io/) |
+| **Main Core** | [Wayne Core Dashboard]([https://samwelwayne266-coder.github.io/](https://samwelwayne266-coder.github.io/samwelwayne266.github.io/)) |
 | **Current Focus** | Full-Stack Architecture & Mobile Systems |
 | **Secret Key** | `WAYNE` |
 
