@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/samwelwayne266-coder.png" width="150" style="border-radius: 50%; border: 3px solid #6366f1;">
 </p>
-
+<div align="center">
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=statuspage&logoColor=white&color=0ea5e9" />
   <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-blueviolet?style=for-the-badge&logo=dependabot&logoColor=white" />
@@ -52,3 +52,4 @@
 ---
 
   **Copyright © [WAYNE CORE](https://github.com/samwelwayne266-coder)**
+<div>
