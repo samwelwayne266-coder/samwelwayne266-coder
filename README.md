@@ -1,68 +1,50 @@
-<div align="center">
+# <p align="center">SYSTEM INITIALIZED: WAYNE CORE v4.5.0</p>
 
-# 🚀 ***WAYNE CORE*** 🚀
-***Supreme Logic Engineer & Full-Stack Architect***
+<p align="center">
+  <img src="https://github.com/samwelwayne266-coder.png" width="150" style="border-radius: 50%; border: 3px solid #6366f1;">
+</p>
 
-[![Website](https://img.shields.io/badge/WEBSITE-UP-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/samwelwayne266-coder)
-[![GitHub](https://img.shields.io/badge/GITHUB-BLACK?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samwelwayne266-coder)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-BLUE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
-
----
-
-### 🏆 ***SUPREME HALL OF FAME***
-<img src="https://github-profile-trophy.vercel.app/?username=samwelwayne266-coder&theme=tokyonight&no-bg=true" alt="Trophies" />
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=statuspage&logoColor=white&color=0ea5e9" />
+  <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-blueviolet?style=for-the-badge&logo=dependabot&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEPLOYMENT-LIVE-orange?style=for-the-badge&logo=githubpages&logoColor=white" />
+</p>
 
 ---
 
-### 🐍 ***SUPREME CONTRIBUTION MATRIX***
+### 🟢 Developer Diagnostics
+| Attribute | Data |
+| :--- | :--- |
+| **System Identity** | samwelwayne266-coder |
+| **Main Core** | [Wayne Core Dashboard](https://samwelwayne266-coder.github.io/) |
+| **Current Focus** | Full-Stack Architecture & Mobile Systems |
+| **Secret Key** | `WAYNE` |
+
+---
+
+### 🛠 Tech Stack Pulse
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
+---
+
+### 📊 System Activity
 <img src="https://raw.githubusercontent.com/samwelwayne266-coder/samwelwayne266-coder/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 ---
 
-### 📊 ***LIVE SYSTEM METRICS***
-<img src="https://github-readme-stats.vercel.app/api?username=samwelwayne266-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samwelwayne266-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
-
----
-
-### 🛰️ ***LATEST ACTIVITY***
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samwelwayne266-coder&theme=tokyo-night&hide_border=true)
+### 📡 Connection Terminals
+- 💼 **Portfolio:** [Visit Wayne Core](https://samwelwayne266-coder.github.io/samwelwayne266.github.io/)
+- 📧 **Transmission:** `samwelplays@gmail.com`
+- 🏗 **Latest Projects:** Scroll down to see the active repository stream.
 
 ---
-
-### 🛠️ ***EXPANDED ENGINEERING STACK***
-
-#### 🌐 **Backend & Real-Time**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-#### 🛡️ **Security & Database**
-![JSON Web Tokens](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-#### 🎨 **Frontend & Logic**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### 🛰️ ***FEATURED ARCHITECTURE***
-#### ⚡ [***APEX LOCAL MESSENGER***](https://github.com/samwelwayne266-coder/apex-local-messenger)
-*High-speed multi-modal communication framework for LAN.*
-
----
-
-**👁️ Visitor Count**
-![Visitor Count](https://komarev.com/ghpvc/?username=samwelwayne266-coder&color=339933&style=flat-square&label=SYSTEM+VISITORS)
-
----
-
-**Copyright © [WAYNE CORE](https://github.com/samwelwayne266-coder)**
-
-</div>
+<p align="center">
+  **Copyright © [WAYNE CORE](https://github.com/samwelwayne266-coder)**
+</p>
