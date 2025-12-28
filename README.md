@@ -45,6 +45,10 @@
 - 🏗 **Latest Projects:** Scroll down to see the active repository stream.
 
 ---
-<p align="center">
+
+**👁️ Visitor Count**
+![Visitor Count](https://komarev.com/ghpvc/?username=samwelwayne266-coder&color=339933&style=flat-square&label=SYSTEM+VISITORS)
+
+---
+
   **Copyright © [WAYNE CORE](https://github.com/samwelwayne266-coder)**
-</p>
