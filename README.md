@@ -1,4 +1,4 @@
-# <p align="center">SYSTEM INITIALIZED: WAYNE CORE v4.5.0</p>
+# <p align="center">SYSTEM INITIALIZED: WAYNE CORE</p>
 
 <p align="center">
   <img src="https://github.com/samwelwayne266-coder.png" width="150" style="border-radius: 50%; border: 3px solid #6366f1;">
