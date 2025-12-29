@@ -64,7 +64,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=samwelwayne266-coder&color=339933&style=flat-square&label=SYSTEM+VISITORS)
 
 ---
-<p>
+<p align="center">
     <a href="https://github.com/samwelwayne266-coder">
         <img src="https://img.shields.io/badge/-Github-black.svg?style=for-the-badge&logo=github&colorB=555" alt="samwelwayne266-coder" width="100px" height="30px">
     </a>
