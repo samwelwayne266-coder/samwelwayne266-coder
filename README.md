@@ -70,6 +70,7 @@
     </a>
     <a href="https://www.instagram.com/justmewayneee/">
         <img src="https://img.shields.io/badge/Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=555" alt="samwelwayne266-coder" width="100px" height="30px">
+    </a>
 </p>
 
 ---
