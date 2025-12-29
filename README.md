@@ -1,7 +1,7 @@
 # <p align="center">SYSTEM INITIALIZED: WAYNE CORE</p>
 
 <p align="center">
-  <img src="image.png" width="250" style="border-radius: 50%; border: 3px solid #6366f1;">
+  <img src="image.png" width="400" style="border-radius: 50%; border: 3px solid #6366f1;">
 </p>
 <div align="center">
 <p align="center">
