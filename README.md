@@ -70,10 +70,6 @@
     </a>
     <a href="https://www.instagram.com/justmewayneee/">
         <img src="https://img.shields.io/badge/Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=555" alt="samwelwayne266-coder" width="100px" height="30px">
-    </a>
-    <a href="https://wa.me/6289653909054?text=hai,%20anubis">
-        <img src="https://img.shields.io/badge/Gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555" alt="samwelwayne266-coder" width="100px" height="30px">
-    </a>
 </p>
 
 ---
