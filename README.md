@@ -75,6 +75,7 @@
         <img src="https://img.shields.io/badge/Gmail-black.svg?style=for-the-badge&logo=gmail&colorB=555" alt="samwelwayne266-coder" width="100px" height="30px">
     </a>
 </p>
+
 ---
 
   **Copyright © [WAYNE CORE](https://github.com/samwelwayne266-coder)**
