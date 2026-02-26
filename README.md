@@ -18,7 +18,6 @@
 | **System Identity** | samwelwayne266-coder |
 | **Main Core** | [Wayne Core Dashboard](https://samwelwayne266-coder.github.io/samwelwayne266.github.io/) |
 | **Current Focus** | Full-Stack Architecture & Mobile Systems |
-| **Secret Key** | `WAYNE` |
 
 ---
 
@@ -43,8 +42,6 @@
 
 ---
 
-### 📊 System Activity
-## 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samwelwayne266-coder/samwelwayne266-coder/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samwelwayne266-coder/samwelwayne266-coder/output/github-contribution-grid-snake.svg">
