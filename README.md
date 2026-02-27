@@ -57,7 +57,6 @@
 
 ---
 
-**👁️ Visitor Count**
 ![Visitor Count](https://komarev.com/ghpvc/?username=samwelwayne266-coder&color=339933&style=flat-square&label=SYSTEM+VISITORS)
 
 ---
